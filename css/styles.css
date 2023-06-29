@@ -189,8 +189,8 @@ color: var(--cloud, #F4F4FD);
         font-family: Raleway;
         font-style: normal;
         font-weight: 800;
-        line-height: 21px;
-        letter-spacing: 0.54px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
 }
 
