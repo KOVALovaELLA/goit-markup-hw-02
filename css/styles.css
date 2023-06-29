@@ -68,12 +68,19 @@ body {
 .header-menu-item:focus {
     color:#404bbf;
 }
+.header-address {
+    font-style: normal;
+}
 .header-address-item {
     font-style: normal;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:var(--color-usual-text);
+}
+.header-address-item:hover,
+.header-address-item:focus {
+    color: #404bbf;
 }
 
 
